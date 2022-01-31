@@ -1,6 +1,6 @@
 # AIDI-2004-LAB1
 Lab#1 - AIDI 2004 Artificial Intelligence in Enterprise Systems
-Date :  Jan 30,2022
+Date :  Jan 31,2022
 Calculate annual salary program 
 file: annual_salary.py
 Description: 
